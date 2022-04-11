@@ -5,5 +5,8 @@ My name is a Thank you
 ## Subheader
 
 So fast!
-Hello
+
+## Local Development
+
+1.Open index.html in your broswer
 
