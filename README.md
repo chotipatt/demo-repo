@@ -6,7 +6,4 @@ My name is a Thank you
 
 So fast!
 
-## Local Development
-
-1.Open index.html in your broswer
-
+Hello world
