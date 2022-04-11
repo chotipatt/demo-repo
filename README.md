@@ -1,15 +1,15 @@
 # Main Header
 
-My name is a Thank you
+My name is chotipat Thank you
 
 ## Subheader
 
-So fast!
-This is a test text
+So Cool
+I'm So sleepy 
 
 Hello world
 
 ## newheader
 
 hi
-I'm chotipat 
+I'm chotipat coolkid from banmo house
